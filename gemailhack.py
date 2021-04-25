@@ -6,14 +6,14 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               create by AL-Alamy                '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '                                                 '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
